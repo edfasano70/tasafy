@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Static frontend (`index.html`) plus a small PHP 8 endpoint (`api/rates.php`) that scrapes rates server-side and caches them in `cache/`. No package manager, build, lint, or tests. Not a git repo. See `../AGENTS.md` for workspace-wide context.
+Static frontend (`index.html`) plus a small PHP 8 endpoint (`api/rates.php`) that scrapes rates server-side and caches them in `cache/`. No package manager, build, lint, or tests. Git: `edfasano70/tasafy` (public). See `../AGENTS.md` for workspace-wide context.
 
 ## Run / deploy
 
