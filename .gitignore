@@ -1,0 +1,4 @@
+cache/*.json
+cache/*.tmp
+.DS_Store
+*.log
